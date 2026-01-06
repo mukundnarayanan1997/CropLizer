@@ -1,0 +1,798 @@
+
+Trials for LinearRegression:   0%|          | 0/100 [00:00<?, ?it/s]
+Trials for LinearRegression:   1%|          | 1/100 [00:02<04:15,  2.58s/it]
+Trials for LinearRegression:   2%|â–         | 2/100 [00:03<02:13,  1.36s/it]
+Trials for LinearRegression:   3%|â–Ž         | 3/100 [00:03<01:42,  1.06s/it]
+Trials for LinearRegression:   4%|â–         | 4/100 [00:04<01:12,  1.33it/s]
+Trials for LinearRegression:   5%|â–Œ         | 5/100 [00:04<00:56,  1.67it/s]
+Trials for LinearRegression:   6%|â–Œ         | 6/100 [00:04<00:46,  2.02it/s]
+Trials for LinearRegression:   7%|â–‹         | 7/100 [00:05<00:48,  1.91it/s]
+Trials for LinearRegression:   8%|â–Š         | 8/100 [00:05<00:48,  1.90it/s]
+Trials for LinearRegression:   9%|â–‰         | 9/100 [00:06<00:44,  2.04it/s]
+Trials for LinearRegression:  10%|â–ˆ         | 10/100 [00:06<00:36,  2.46it/s]
+Trials for LinearRegression:  11%|â–ˆ         | 11/100 [00:06<00:35,  2.48it/s]
+Trials for LinearRegression:  12%|â–ˆâ–        | 12/100 [00:08<00:59,  1.49it/s]
+Trials for LinearRegression:  13%|â–ˆâ–Ž        | 13/100 [00:09<01:20,  1.08it/s]
+Trials for LinearRegression:  14%|â–ˆâ–        | 14/100 [00:10<01:08,  1.26it/s]
+Trials for LinearRegression:  15%|â–ˆâ–Œ        | 15/100 [00:10<00:55,  1.52it/s]
+Trials for LinearRegression:  16%|â–ˆâ–Œ        | 16/100 [00:10<00:50,  1.65it/s]
+Trials for LinearRegression:  17%|â–ˆâ–‹        | 17/100 [00:11<00:43,  1.92it/s]
+Trials for LinearRegression:  18%|â–ˆâ–Š        | 18/100 [00:11<00:39,  2.09it/s]
+Trials for LinearRegression:  19%|â–ˆâ–‰        | 19/100 [00:11<00:34,  2.33it/s]
+Trials for LinearRegression:  20%|â–ˆâ–ˆ        | 20/100 [00:12<00:31,  2.55it/s]
+Trials for LinearRegression:  21%|â–ˆâ–ˆ        | 21/100 [00:12<00:30,  2.61it/s]
+Trials for LinearRegression:  22%|â–ˆâ–ˆâ–       | 22/100 [00:12<00:26,  2.93it/s]
+Trials for LinearRegression:  23%|â–ˆâ–ˆâ–Ž       | 23/100 [00:13<00:25,  2.96it/s]
+Trials for LinearRegression:  24%|â–ˆâ–ˆâ–       | 24/100 [00:13<00:22,  3.33it/s]
+Trials for LinearRegression:  25%|â–ˆâ–ˆâ–Œ       | 25/100 [00:13<00:22,  3.37it/s]
+Trials for LinearRegression:  26%|â–ˆâ–ˆâ–Œ       | 26/100 [00:13<00:21,  3.37it/s]
+Trials for LinearRegression:  27%|â–ˆâ–ˆâ–‹       | 27/100 [00:16<01:01,  1.19it/s]
+Trials for LinearRegression:  28%|â–ˆâ–ˆâ–Š       | 28/100 [00:18<01:42,  1.42s/it]
+Trials for LinearRegression:  29%|â–ˆâ–ˆâ–‰       | 29/100 [00:20<01:47,  1.52s/it]
+Trials for LinearRegression:  30%|â–ˆâ–ˆâ–ˆ       | 30/100 [00:21<01:23,  1.20s/it]
+Trials for LinearRegression:  31%|â–ˆâ–ˆâ–ˆ       | 31/100 [00:21<01:05,  1.05it/s]
+Trials for LinearRegression:  32%|â–ˆâ–ˆâ–ˆâ–      | 32/100 [00:25<02:01,  1.79s/it]
+Trials for LinearRegression:  33%|â–ˆâ–ˆâ–ˆâ–Ž      | 33/100 [00:25<01:36,  1.45s/it]
+Trials for LinearRegression:  34%|â–ˆâ–ˆâ–ˆâ–      | 34/100 [00:26<01:13,  1.12s/it]
+Trials for LinearRegression:  35%|â–ˆâ–ˆâ–ˆâ–Œ      | 35/100 [00:26<00:56,  1.16it/s]
+Trials for LinearRegression:  36%|â–ˆâ–ˆâ–ˆâ–Œ      | 36/100 [00:26<00:46,  1.37it/s]
+Trials for LinearRegression:  37%|â–ˆâ–ˆâ–ˆâ–‹      | 37/100 [00:27<00:38,  1.63it/s]
+Trials for LinearRegression:  38%|â–ˆâ–ˆâ–ˆâ–Š      | 38/100 [00:27<00:32,  1.93it/s]
+Trials for LinearRegression:  39%|â–ˆâ–ˆâ–ˆâ–‰      | 39/100 [00:27<00:26,  2.26it/s]
+Trials for LinearRegression:  40%|â–ˆâ–ˆâ–ˆâ–ˆ      | 40/100 [00:28<00:23,  2.58it/s]
+Trials for LinearRegression:  41%|â–ˆâ–ˆâ–ˆâ–ˆ      | 41/100 [00:28<00:20,  2.87it/s]
+Trials for LinearRegression:  42%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 42/100 [00:28<00:18,  3.06it/s]
+Trials for LinearRegression:  43%|â–ˆâ–ˆâ–ˆâ–ˆâ–Ž     | 43/100 [00:28<00:18,  3.15it/s]
+Trials for LinearRegression:  44%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 44/100 [00:29<00:16,  3.34it/s]
+Trials for LinearRegression:  45%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 45/100 [00:29<00:16,  3.38it/s]
+Trials for LinearRegression:  46%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 46/100 [00:29<00:16,  3.34it/s]
+Trials for LinearRegression:  47%|â–ˆâ–ˆâ–ˆâ–ˆâ–‹     | 47/100 [00:29<00:15,  3.46it/s]
+Trials for LinearRegression:  48%|â–ˆâ–ˆâ–ˆâ–ˆâ–Š     | 48/100 [00:30<00:15,  3.43it/s]
+Trials for LinearRegression:  49%|â–ˆâ–ˆâ–ˆâ–ˆâ–‰     | 49/100 [00:30<00:14,  3.61it/s]
+Trials for LinearRegression:  50%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 50/100 [00:30<00:14,  3.46it/s]
+Trials for LinearRegression:  51%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 51/100 [00:31<00:13,  3.50it/s]
+Trials for LinearRegression:  52%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 52/100 [00:31<00:14,  3.33it/s]
+Trials for LinearRegression:  53%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž    | 53/100 [00:31<00:13,  3.46it/s]
+Trials for LinearRegression:  54%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 54/100 [00:32<00:13,  3.45it/s]
+Trials for LinearRegression:  55%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 55/100 [00:32<00:16,  2.79it/s]
+Trials for LinearRegression:  56%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 56/100 [00:32<00:15,  2.91it/s]
+Trials for LinearRegression:  57%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹    | 57/100 [00:33<00:15,  2.80it/s]
+Trials for LinearRegression:  58%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š    | 58/100 [00:33<00:16,  2.56it/s]
+Trials for LinearRegression:  59%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰    | 59/100 [00:33<00:14,  2.85it/s]
+Trials for LinearRegression:  60%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 60/100 [00:34<00:12,  3.09it/s]
+Trials for LinearRegression:  61%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 61/100 [00:34<00:11,  3.38it/s]
+Trials for LinearRegression:  62%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 62/100 [00:34<00:10,  3.61it/s]
+Trials for LinearRegression:  63%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž   | 63/100 [00:34<00:09,  3.71it/s]
+Trials for LinearRegression:  64%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 64/100 [00:35<00:09,  3.86it/s]
+Trials for LinearRegression:  65%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 65/100 [00:35<00:08,  4.04it/s]
+Trials for LinearRegression:  66%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 66/100 [00:35<00:08,  3.85it/s]
+Trials for LinearRegression:  67%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹   | 67/100 [00:36<00:09,  3.47it/s]
+Trials for LinearRegression:  68%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š   | 68/100 [00:36<00:08,  3.73it/s]
+Trials for LinearRegression:  69%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰   | 69/100 [00:36<00:09,  3.13it/s]
+Trials for LinearRegression:  70%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 70/100 [00:36<00:08,  3.41it/s]
+Trials for LinearRegression:  71%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 71/100 [00:37<00:09,  3.02it/s]
+Trials for LinearRegression:  72%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 72/100 [00:37<00:08,  3.23it/s]
+Trials for LinearRegression:  73%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž  | 73/100 [00:37<00:07,  3.51it/s]
+Trials for LinearRegression:  74%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 74/100 [00:38<00:08,  3.14it/s]
+Trials for LinearRegression:  75%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 75/100 [00:38<00:07,  3.22it/s]
+Trials for LinearRegression:  76%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 76/100 [00:38<00:07,  3.38it/s]
+Trials for LinearRegression:  77%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹  | 77/100 [00:39<00:07,  2.93it/s]
+Trials for LinearRegression:  78%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š  | 78/100 [00:39<00:07,  3.04it/s]
+Trials for LinearRegression:  79%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰  | 79/100 [00:39<00:07,  2.84it/s]
+Trials for LinearRegression:  80%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 80/100 [00:40<00:06,  3.22it/s]
+Trials for LinearRegression:  81%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 81/100 [00:40<00:06,  2.93it/s]
+Trials for LinearRegression:  82%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 82/100 [00:40<00:06,  2.96it/s]
+Trials for LinearRegression:  83%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž | 83/100 [00:41<00:05,  3.23it/s]
+Trials for LinearRegression:  84%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 84/100 [00:41<00:04,  3.52it/s]
+Trials for LinearRegression:  85%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 85/100 [00:41<00:04,  3.19it/s]
+Trials for LinearRegression:  86%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 86/100 [00:42<00:04,  3.28it/s]
+Trials for LinearRegression:  87%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹ | 87/100 [00:42<00:04,  3.06it/s]
+Trials for LinearRegression:  88%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š | 88/100 [00:42<00:04,  2.59it/s]
+Trials for LinearRegression:  89%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰ | 89/100 [00:43<00:03,  2.83it/s]
+Trials for LinearRegression:  90%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 90/100 [00:43<00:04,  2.48it/s]
+Trials for LinearRegression:  91%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 91/100 [00:44<00:03,  2.70it/s]
+Trials for LinearRegression:  92%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 92/100 [00:44<00:02,  2.94it/s]
+Trials for LinearRegression:  93%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž| 93/100 [00:44<00:02,  3.18it/s]
+Trials for LinearRegression:  94%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 94/100 [00:44<00:01,  3.33it/s]
+Trials for LinearRegression:  95%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 95/100 [00:45<00:01,  3.28it/s]
+Trials for LinearRegression:  96%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 96/100 [00:45<00:01,  3.56it/s]
+Trials for LinearRegression:  97%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹| 97/100 [00:45<00:00,  3.85it/s]
+Trials for LinearRegression:  98%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š| 98/100 [00:45<00:00,  3.89it/s]
+Trials for LinearRegression:  99%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰| 99/100 [00:46<00:00,  2.69it/s]
+Trials for LinearRegression: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [00:46<00:00,  2.86it/s]
+Trials for LinearRegression: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [00:46<00:00,  2.14it/s]
+
+Trials for DecisionTree:   0%|          | 0/100 [00:00<?, ?it/s]
+Trials for DecisionTree:   1%|          | 1/100 [00:01<02:07,  1.28s/it]
+Trials for DecisionTree:   2%|â–         | 2/100 [00:01<01:30,  1.08it/s]
+Trials for DecisionTree:   3%|â–Ž         | 3/100 [00:03<01:43,  1.06s/it]
+Trials for DecisionTree:   4%|â–         | 4/100 [00:04<02:01,  1.26s/it]
+Trials for DecisionTree:   5%|â–Œ         | 5/100 [00:05<01:55,  1.22s/it]
+Trials for DecisionTree:   6%|â–Œ         | 6/100 [00:07<01:58,  1.26s/it]
+Trials for DecisionTree:   7%|â–‹         | 7/100 [00:09<02:13,  1.43s/it]
+Trials for DecisionTree:   8%|â–Š         | 8/100 [00:10<02:07,  1.38s/it]
+Trials for DecisionTree:   9%|â–‰         | 9/100 [00:11<01:53,  1.25s/it]
+Trials for DecisionTree:  10%|â–ˆ         | 10/100 [00:12<01:41,  1.12s/it]
+Trials for DecisionTree:  11%|â–ˆ         | 11/100 [00:12<01:32,  1.04s/it]
+Trials for DecisionTree:  12%|â–ˆâ–        | 12/100 [00:13<01:29,  1.02s/it]
+Trials for DecisionTree:  13%|â–ˆâ–Ž        | 13/100 [00:14<01:22,  1.06it/s]
+Trials for DecisionTree:  14%|â–ˆâ–        | 14/100 [00:15<01:23,  1.03it/s]
+Trials for DecisionTree:  15%|â–ˆâ–Œ        | 15/100 [00:16<01:25,  1.01s/it]
+Trials for DecisionTree:  16%|â–ˆâ–Œ        | 16/100 [00:17<01:19,  1.05it/s]
+Trials for DecisionTree:  17%|â–ˆâ–‹        | 17/100 [00:18<01:20,  1.03it/s]
+Trials for DecisionTree:  18%|â–ˆâ–Š        | 18/100 [00:19<01:19,  1.03it/s]
+Trials for DecisionTree:  19%|â–ˆâ–‰        | 19/100 [00:20<01:16,  1.06it/s]
+Trials for DecisionTree:  20%|â–ˆâ–ˆ        | 20/100 [00:21<01:12,  1.11it/s]
+Trials for DecisionTree:  21%|â–ˆâ–ˆ        | 21/100 [00:22<01:12,  1.09it/s]
+Trials for DecisionTree:  22%|â–ˆâ–ˆâ–       | 22/100 [00:23<01:19,  1.02s/it]
+Trials for DecisionTree:  23%|â–ˆâ–ˆâ–Ž       | 23/100 [00:24<01:24,  1.10s/it]
+Trials for DecisionTree:  24%|â–ˆâ–ˆâ–       | 24/100 [00:26<01:29,  1.18s/it]
+Trials for DecisionTree:  25%|â–ˆâ–ˆâ–Œ       | 25/100 [00:27<01:25,  1.15s/it]
+Trials for DecisionTree:  26%|â–ˆâ–ˆâ–Œ       | 26/100 [00:28<01:26,  1.17s/it]
+Trials for DecisionTree:  27%|â–ˆâ–ˆâ–‹       | 27/100 [00:29<01:27,  1.20s/it]
+Trials for DecisionTree:  28%|â–ˆâ–ˆâ–Š       | 28/100 [00:30<01:24,  1.18s/it]
+Trials for DecisionTree:  29%|â–ˆâ–ˆâ–‰       | 29/100 [00:31<01:16,  1.07s/it]
+Trials for DecisionTree:  30%|â–ˆâ–ˆâ–ˆ       | 30/100 [00:32<01:06,  1.06it/s]
+Trials for DecisionTree:  31%|â–ˆâ–ˆâ–ˆ       | 31/100 [00:33<01:10,  1.02s/it]
+Trials for DecisionTree:  32%|â–ˆâ–ˆâ–ˆâ–      | 32/100 [00:34<01:00,  1.12it/s]
+Trials for DecisionTree:  33%|â–ˆâ–ˆâ–ˆâ–Ž      | 33/100 [00:35<01:02,  1.08it/s]
+Trials for DecisionTree:  34%|â–ˆâ–ˆâ–ˆâ–      | 34/100 [00:36<01:06,  1.01s/it]
+Trials for DecisionTree:  35%|â–ˆâ–ˆâ–ˆâ–Œ      | 35/100 [00:37<01:16,  1.18s/it]
+Trials for DecisionTree:  36%|â–ˆâ–ˆâ–ˆâ–Œ      | 36/100 [00:39<01:15,  1.17s/it]
+Trials for DecisionTree:  37%|â–ˆâ–ˆâ–ˆâ–‹      | 37/100 [00:40<01:13,  1.16s/it]
+Trials for DecisionTree:  38%|â–ˆâ–ˆâ–ˆâ–Š      | 38/100 [00:41<01:08,  1.11s/it]
+Trials for DecisionTree:  39%|â–ˆâ–ˆâ–ˆâ–‰      | 39/100 [00:42<01:07,  1.11s/it]
+Trials for DecisionTree:  40%|â–ˆâ–ˆâ–ˆâ–ˆ      | 40/100 [00:43<01:08,  1.14s/it]
+Trials for DecisionTree:  41%|â–ˆâ–ˆâ–ˆâ–ˆ      | 41/100 [00:44<01:07,  1.15s/it]
+Trials for DecisionTree:  42%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 42/100 [00:45<01:01,  1.06s/it]
+Trials for DecisionTree:  43%|â–ˆâ–ˆâ–ˆâ–ˆâ–Ž     | 43/100 [00:46<00:54,  1.04it/s]
+Trials for DecisionTree:  44%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 44/100 [00:47<00:51,  1.08it/s]
+Trials for DecisionTree:  45%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 45/100 [00:47<00:49,  1.10it/s]
+Trials for DecisionTree:  46%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 46/100 [00:49<00:54,  1.00s/it]
+Trials for DecisionTree:  47%|â–ˆâ–ˆâ–ˆâ–ˆâ–‹     | 47/100 [00:50<00:54,  1.02s/it]
+Trials for DecisionTree:  48%|â–ˆâ–ˆâ–ˆâ–ˆâ–Š     | 48/100 [00:51<00:50,  1.04it/s]
+Trials for DecisionTree:  49%|â–ˆâ–ˆâ–ˆâ–ˆâ–‰     | 49/100 [00:52<00:51,  1.02s/it]
+Trials for DecisionTree:  50%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 50/100 [00:53<00:50,  1.00s/it]
+Trials for DecisionTree:  51%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 51/100 [00:54<00:51,  1.05s/it]
+Trials for DecisionTree:  52%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 52/100 [00:55<00:45,  1.06it/s]
+Trials for DecisionTree:  53%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž    | 53/100 [00:56<00:45,  1.03it/s]
+Trials for DecisionTree:  54%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 54/100 [00:57<00:49,  1.08s/it]
+Trials for DecisionTree:  55%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 55/100 [00:58<00:46,  1.04s/it]
+Trials for DecisionTree:  56%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 56/100 [00:59<00:47,  1.08s/it]
+Trials for DecisionTree:  57%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹    | 57/100 [01:00<00:44,  1.05s/it]
+Trials for DecisionTree:  58%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š    | 58/100 [01:01<00:44,  1.05s/it]
+Trials for DecisionTree:  59%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰    | 59/100 [01:02<00:41,  1.02s/it]
+Trials for DecisionTree:  60%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 60/100 [01:03<00:39,  1.02it/s]
+Trials for DecisionTree:  61%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 61/100 [01:04<00:41,  1.07s/it]
+Trials for DecisionTree:  62%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 62/100 [01:05<00:42,  1.11s/it]
+Trials for DecisionTree:  63%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž   | 63/100 [01:06<00:38,  1.03s/it]
+Trials for DecisionTree:  64%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 64/100 [01:07<00:36,  1.02s/it]
+Trials for DecisionTree:  65%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 65/100 [01:08<00:31,  1.10it/s]
+Trials for DecisionTree:  66%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 66/100 [01:09<00:31,  1.09it/s]
+Trials for DecisionTree:  67%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹   | 67/100 [01:10<00:32,  1.00it/s]
+Trials for DecisionTree:  68%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š   | 68/100 [01:11<00:31,  1.01it/s]
+Trials for DecisionTree:  69%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰   | 69/100 [01:12<00:28,  1.10it/s]
+Trials for DecisionTree:  70%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 70/100 [01:13<00:26,  1.12it/s]
+Trials for DecisionTree:  71%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 71/100 [01:13<00:25,  1.15it/s]
+Trials for DecisionTree:  72%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 72/100 [01:14<00:24,  1.16it/s]
+Trials for DecisionTree:  73%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž  | 73/100 [01:15<00:26,  1.02it/s]
+Trials for DecisionTree:  74%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 74/100 [01:17<00:25,  1.00it/s]
+Trials for DecisionTree:  75%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 75/100 [01:17<00:24,  1.02it/s]
+Trials for DecisionTree:  76%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 76/100 [01:18<00:23,  1.02it/s]
+Trials for DecisionTree:  77%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹  | 77/100 [01:20<00:23,  1.02s/it]
+Trials for DecisionTree:  78%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š  | 78/100 [01:21<00:28,  1.28s/it]
+Trials for DecisionTree:  79%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰  | 79/100 [01:23<00:26,  1.27s/it]
+Trials for DecisionTree:  80%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 80/100 [01:24<00:23,  1.16s/it]
+Trials for DecisionTree:  81%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 81/100 [01:24<00:19,  1.05s/it]
+Trials for DecisionTree:  82%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 82/100 [01:26<00:20,  1.13s/it]
+Trials for DecisionTree:  83%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž | 83/100 [01:27<00:19,  1.15s/it]
+Trials for DecisionTree:  84%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 84/100 [01:28<00:18,  1.16s/it]
+Trials for DecisionTree:  85%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 85/100 [01:29<00:16,  1.08s/it]
+Trials for DecisionTree:  86%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 86/100 [01:31<00:17,  1.26s/it]
+Trials for DecisionTree:  87%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹ | 87/100 [01:32<00:15,  1.16s/it]
+Trials for DecisionTree:  88%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š | 88/100 [01:32<00:12,  1.03s/it]
+Trials for DecisionTree:  89%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰ | 89/100 [01:33<00:11,  1.04s/it]
+Trials for DecisionTree:  90%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 90/100 [01:34<00:09,  1.08it/s]
+Trials for DecisionTree:  91%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 91/100 [01:35<00:08,  1.10it/s]
+Trials for DecisionTree:  92%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 92/100 [01:36<00:07,  1.06it/s]
+Trials for DecisionTree:  93%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž| 93/100 [01:37<00:07,  1.00s/it]
+Trials for DecisionTree:  94%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 94/100 [01:38<00:05,  1.09it/s]
+Trials for DecisionTree:  95%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 95/100 [01:39<00:04,  1.12it/s]
+Trials for DecisionTree:  96%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 96/100 [01:40<00:03,  1.03it/s]
+Trials for DecisionTree:  97%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹| 97/100 [01:41<00:03,  1.10s/it]
+Trials for DecisionTree:  98%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š| 98/100 [01:42<00:02,  1.10s/it]
+Trials for DecisionTree:  99%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰| 99/100 [01:43<00:01,  1.09s/it]
+Trials for DecisionTree: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [01:44<00:00,  1.06s/it]
+Trials for DecisionTree: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [01:44<00:00,  1.05s/it]
+
+Trials for RandomForest:   0%|          | 0/100 [00:00<?, ?it/s]
+Trials for RandomForest:   1%|          | 1/100 [00:01<03:05,  1.87s/it]
+Trials for RandomForest:   2%|â–         | 2/100 [00:03<03:12,  1.97s/it]
+Trials for RandomForest:   3%|â–Ž         | 3/100 [00:07<04:12,  2.60s/it]
+Trials for RandomForest:   4%|â–         | 4/100 [00:08<03:35,  2.25s/it]
+Trials for RandomForest:   5%|â–Œ         | 5/100 [00:10<03:18,  2.09s/it]
+Trials for RandomForest:   6%|â–Œ         | 6/100 [00:12<03:01,  1.93s/it]
+Trials for RandomForest:   7%|â–‹         | 7/100 [00:14<03:02,  1.96s/it]
+Trials for RandomForest:   8%|â–Š         | 8/100 [00:17<03:27,  2.25s/it]
+Trials for RandomForest:   9%|â–‰         | 9/100 [00:19<03:30,  2.31s/it]
+Trials for RandomForest:  10%|â–ˆ         | 10/100 [00:21<03:16,  2.18s/it]
+Trials for RandomForest:  11%|â–ˆ         | 11/100 [00:23<02:55,  1.97s/it]
+Trials for RandomForest:  12%|â–ˆâ–        | 12/100 [00:24<02:47,  1.90s/it]
+Trials for RandomForest:  13%|â–ˆâ–Ž        | 13/100 [00:26<02:34,  1.78s/it]
+Trials for RandomForest:  14%|â–ˆâ–        | 14/100 [00:28<02:32,  1.78s/it]
+Trials for RandomForest:  15%|â–ˆâ–Œ        | 15/100 [00:31<02:59,  2.12s/it]
+Trials for RandomForest:  16%|â–ˆâ–Œ        | 16/100 [00:32<02:39,  1.90s/it]
+Trials for RandomForest:  17%|â–ˆâ–‹        | 17/100 [00:34<02:44,  1.98s/it]
+Trials for RandomForest:  18%|â–ˆâ–Š        | 18/100 [00:37<03:05,  2.26s/it]
+Trials for RandomForest:  19%|â–ˆâ–‰        | 19/100 [00:40<03:17,  2.44s/it]
+Trials for RandomForest:  20%|â–ˆâ–ˆ        | 20/100 [00:42<03:12,  2.41s/it]
+Trials for RandomForest:  21%|â–ˆâ–ˆ        | 21/100 [00:45<03:10,  2.41s/it]
+Trials for RandomForest:  22%|â–ˆâ–ˆâ–       | 22/100 [00:46<02:47,  2.15s/it]
+Trials for RandomForest:  23%|â–ˆâ–ˆâ–Ž       | 23/100 [00:48<02:45,  2.15s/it]
+Trials for RandomForest:  24%|â–ˆâ–ˆâ–       | 24/100 [00:50<02:25,  1.92s/it]
+Trials for RandomForest:  25%|â–ˆâ–ˆâ–Œ       | 25/100 [00:52<02:21,  1.89s/it]
+Trials for RandomForest:  26%|â–ˆâ–ˆâ–Œ       | 26/100 [00:53<02:06,  1.71s/it]
+Trials for RandomForest:  27%|â–ˆâ–ˆâ–‹       | 27/100 [00:55<02:18,  1.90s/it]
+Trials for RandomForest:  28%|â–ˆâ–ˆâ–Š       | 28/100 [00:57<02:22,  1.98s/it]
+Trials for RandomForest:  29%|â–ˆâ–ˆâ–‰       | 29/100 [01:00<02:25,  2.04s/it]
+Trials for RandomForest:  30%|â–ˆâ–ˆâ–ˆ       | 30/100 [01:02<02:30,  2.14s/it]
+Trials for RandomForest:  31%|â–ˆâ–ˆâ–ˆ       | 31/100 [01:04<02:28,  2.15s/it]
+Trials for RandomForest:  32%|â–ˆâ–ˆâ–ˆâ–      | 32/100 [01:07<02:40,  2.36s/it]
+Trials for RandomForest:  33%|â–ˆâ–ˆâ–ˆâ–Ž      | 33/100 [01:09<02:26,  2.19s/it]
+Trials for RandomForest:  34%|â–ˆâ–ˆâ–ˆâ–      | 34/100 [01:10<02:08,  1.94s/it]
+Trials for RandomForest:  35%|â–ˆâ–ˆâ–ˆâ–Œ      | 35/100 [01:13<02:35,  2.39s/it]
+Trials for RandomForest:  36%|â–ˆâ–ˆâ–ˆâ–Œ      | 36/100 [01:16<02:30,  2.36s/it]
+Trials for RandomForest:  37%|â–ˆâ–ˆâ–ˆâ–‹      | 37/100 [01:19<02:45,  2.63s/it]
+Trials for RandomForest:  38%|â–ˆâ–ˆâ–ˆâ–Š      | 38/100 [01:21<02:35,  2.51s/it]
+Trials for RandomForest:  39%|â–ˆâ–ˆâ–ˆâ–‰      | 39/100 [01:23<02:20,  2.31s/it]
+Trials for RandomForest:  40%|â–ˆâ–ˆâ–ˆâ–ˆ      | 40/100 [01:25<02:17,  2.30s/it]
+Trials for RandomForest:  41%|â–ˆâ–ˆâ–ˆâ–ˆ      | 41/100 [01:29<02:37,  2.67s/it]
+Trials for RandomForest:  42%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 42/100 [01:31<02:19,  2.40s/it]
+Trials for RandomForest:  43%|â–ˆâ–ˆâ–ˆâ–ˆâ–Ž     | 43/100 [01:33<02:19,  2.44s/it]
+Trials for RandomForest:  44%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 44/100 [01:34<01:55,  2.06s/it]
+Trials for RandomForest:  45%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 45/100 [01:36<01:49,  2.00s/it]
+Trials for RandomForest:  46%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 46/100 [01:39<01:56,  2.16s/it]
+Trials for RandomForest:  47%|â–ˆâ–ˆâ–ˆâ–ˆâ–‹     | 47/100 [01:40<01:44,  1.98s/it]
+Trials for RandomForest:  48%|â–ˆâ–ˆâ–ˆâ–ˆâ–Š     | 48/100 [01:43<01:55,  2.21s/it]
+Trials for RandomForest:  49%|â–ˆâ–ˆâ–ˆâ–ˆâ–‰     | 49/100 [01:45<01:47,  2.11s/it]
+Trials for RandomForest:  50%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 50/100 [01:47<01:44,  2.09s/it]
+Trials for RandomForest:  51%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 51/100 [01:48<01:33,  1.90s/it]
+Trials for RandomForest:  52%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 52/100 [01:50<01:22,  1.71s/it]
+Trials for RandomForest:  53%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž    | 53/100 [01:52<01:30,  1.93s/it]
+Trials for RandomForest:  54%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 54/100 [01:54<01:27,  1.90s/it]
+Trials for RandomForest:  55%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 55/100 [01:56<01:28,  1.96s/it]
+Trials for RandomForest:  56%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 56/100 [01:59<01:34,  2.15s/it]
+Trials for RandomForest:  57%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹    | 57/100 [02:01<01:30,  2.10s/it]
+Trials for RandomForest:  58%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š    | 58/100 [02:03<01:29,  2.12s/it]
+Trials for RandomForest:  59%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰    | 59/100 [02:04<01:19,  1.95s/it]
+Trials for RandomForest:  60%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 60/100 [02:07<01:24,  2.12s/it]
+Trials for RandomForest:  61%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 61/100 [02:09<01:17,  1.99s/it]
+Trials for RandomForest:  62%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 62/100 [02:10<01:11,  1.89s/it]
+Trials for RandomForest:  63%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž   | 63/100 [02:12<01:03,  1.72s/it]
+Trials for RandomForest:  64%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 64/100 [02:13<00:59,  1.65s/it]
+Trials for RandomForest:  65%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 65/100 [02:15<01:04,  1.83s/it]
+Trials for RandomForest:  66%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 66/100 [02:17<00:56,  1.67s/it]
+Trials for RandomForest:  67%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹   | 67/100 [02:19<00:59,  1.80s/it]
+Trials for RandomForest:  68%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š   | 68/100 [02:20<00:50,  1.59s/it]
+Trials for RandomForest:  69%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰   | 69/100 [02:24<01:09,  2.24s/it]
+Trials for RandomForest:  70%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 70/100 [02:25<00:59,  1.98s/it]
+Trials for RandomForest:  71%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 71/100 [02:28<01:03,  2.21s/it]
+Trials for RandomForest:  72%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 72/100 [02:30<01:01,  2.19s/it]
+Trials for RandomForest:  73%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž  | 73/100 [02:32<00:55,  2.06s/it]
+Trials for RandomForest:  74%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 74/100 [02:34<00:52,  2.03s/it]
+Trials for RandomForest:  75%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 75/100 [02:35<00:49,  2.00s/it]
+Trials for RandomForest:  76%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 76/100 [02:37<00:46,  1.94s/it]
+Trials for RandomForest:  77%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹  | 77/100 [02:40<00:51,  2.23s/it]
+Trials for RandomForest:  78%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š  | 78/100 [02:42<00:45,  2.09s/it]
+Trials for RandomForest:  79%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰  | 79/100 [02:45<00:47,  2.24s/it]
+Trials for RandomForest:  80%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 80/100 [02:47<00:43,  2.16s/it]
+Trials for RandomForest:  81%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 81/100 [02:49<00:40,  2.11s/it]
+Trials for RandomForest:  82%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 82/100 [02:50<00:36,  2.01s/it]
+Trials for RandomForest:  83%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž | 83/100 [02:54<00:42,  2.51s/it]
+Trials for RandomForest:  84%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 84/100 [02:56<00:36,  2.28s/it]
+Trials for RandomForest:  85%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 85/100 [02:58<00:32,  2.17s/it]
+Trials for RandomForest:  86%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 86/100 [03:01<00:33,  2.42s/it]
+Trials for RandomForest:  87%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹ | 87/100 [03:03<00:33,  2.55s/it]
+Trials for RandomForest:  88%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š | 88/100 [03:05<00:27,  2.29s/it]
+Trials for RandomForest:  89%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰ | 89/100 [03:07<00:24,  2.24s/it]
+Trials for RandomForest:  90%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 90/100 [03:09<00:21,  2.19s/it]
+Trials for RandomForest:  91%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 91/100 [03:12<00:20,  2.23s/it]
+Trials for RandomForest:  92%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 92/100 [03:15<00:19,  2.47s/it]
+Trials for RandomForest:  93%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž| 93/100 [03:17<00:16,  2.31s/it]
+Trials for RandomForest:  94%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 94/100 [03:18<00:12,  2.14s/it]
+Trials for RandomForest:  95%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 95/100 [03:20<00:09,  1.97s/it]
+Trials for RandomForest:  96%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 96/100 [03:22<00:08,  2.05s/it]
+Trials for RandomForest:  97%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹| 97/100 [03:26<00:07,  2.45s/it]
+Trials for RandomForest:  98%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š| 98/100 [03:28<00:04,  2.41s/it]
+Trials for RandomForest:  99%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰| 99/100 [03:30<00:02,  2.25s/it]
+Trials for RandomForest: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [03:31<00:00,  2.05s/it]
+Trials for RandomForest: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [03:31<00:00,  2.12s/it]
+
+Trials for NN:   0%|          | 0/100 [00:00<?, ?it/s]
+Trials for NN:   1%|          | 1/100 [02:20<3:51:54, 140.55s/it]
+Trials for NN:   2%|â–         | 2/100 [02:53<2:06:23, 77.38s/it] 
+Trials for NN:   3%|â–Ž         | 3/100 [04:43<2:28:46, 92.02s/it]
+Trials for NN:   4%|â–         | 4/100 [05:57<2:15:54, 84.94s/it]
+Trials for NN:   5%|â–Œ         | 5/100 [06:30<1:45:14, 66.47s/it]
+Trials for NN:   6%|â–Œ         | 6/100 [07:34<1:42:29, 65.42s/it]
+Trials for NN:   7%|â–‹         | 7/100 [08:27<1:34:56, 61.25s/it]
+Trials for NN:   8%|â–Š         | 8/100 [08:47<1:14:13, 48.40s/it]
+Trials for NN:   9%|â–‰         | 9/100 [09:13<1:02:44, 41.36s/it]
+Trials for NN:  10%|â–ˆ         | 10/100 [09:44<57:01, 38.02s/it] 
+Trials for NN:  11%|â–ˆ         | 11/100 [11:22<1:23:35, 56.36s/it]
+Trials for NN:  12%|â–ˆâ–        | 12/100 [11:59<1:14:00, 50.46s/it]
+Trials for NN:  13%|â–ˆâ–Ž        | 13/100 [12:59<1:17:16, 53.30s/it]
+Trials for NN:  14%|â–ˆâ–        | 14/100 [14:01<1:20:09, 55.93s/it]
+Trials for NN:  15%|â–ˆâ–Œ        | 15/100 [14:35<1:10:14, 49.59s/it]
+Trials for NN:  16%|â–ˆâ–Œ        | 16/100 [15:47<1:18:31, 56.09s/it]
+Trials for NN:  17%|â–ˆâ–‹        | 17/100 [16:44<1:17:59, 56.38s/it]
+Trials for NN:  18%|â–ˆâ–Š        | 18/100 [17:30<1:12:51, 53.31s/it]
+Trials for NN:  19%|â–ˆâ–‰        | 19/100 [18:40<1:18:56, 58.47s/it]
+Trials for NN:  20%|â–ˆâ–ˆ        | 20/100 [19:57<1:25:15, 63.94s/it]
+Trials for NN:  21%|â–ˆâ–ˆ        | 21/100 [20:47<1:18:35, 59.69s/it]
+Trials for NN:  22%|â–ˆâ–ˆâ–       | 22/100 [22:06<1:25:17, 65.61s/it]
+Trials for NN:  23%|â–ˆâ–ˆâ–Ž       | 23/100 [23:01<1:19:52, 62.24s/it]
+Trials for NN:  24%|â–ˆâ–ˆâ–       | 24/100 [23:35<1:08:13, 53.86s/it]
+Trials for NN:  25%|â–ˆâ–ˆâ–Œ       | 25/100 [24:07<59:06, 47.28s/it]  
+Trials for NN:  26%|â–ˆâ–ˆâ–Œ       | 26/100 [24:38<52:10, 42.31s/it]
+Trials for NN:  27%|â–ˆâ–ˆâ–‹       | 27/100 [27:05<1:29:52, 73.87s/it]
+Trials for NN:  28%|â–ˆâ–ˆâ–Š       | 28/100 [28:11<1:25:43, 71.44s/it]
+Trials for NN:  29%|â–ˆâ–ˆâ–‰       | 29/100 [28:57<1:15:41, 63.96s/it]
+Trials for NN:  30%|â–ˆâ–ˆâ–ˆ       | 30/100 [29:33<1:04:42, 55.47s/it]
+Trials for NN:  31%|â–ˆâ–ˆâ–ˆ       | 31/100 [30:47<1:10:05, 60.95s/it]
+Trials for NN:  32%|â–ˆâ–ˆâ–ˆâ–      | 32/100 [32:28<1:22:44, 73.00s/it]
+Trials for NN:  33%|â–ˆâ–ˆâ–ˆâ–Ž      | 33/100 [34:48<1:44:00, 93.15s/it]
+Trials for NN:  34%|â–ˆâ–ˆâ–ˆâ–      | 34/100 [35:20<1:22:08, 74.67s/it]
+Trials for NN:  35%|â–ˆâ–ˆâ–ˆâ–Œ      | 35/100 [35:47<1:05:36, 60.56s/it]
+Trials for NN:  36%|â–ˆâ–ˆâ–ˆâ–Œ      | 36/100 [36:39<1:01:45, 57.90s/it]
+Trials for NN:  37%|â–ˆâ–ˆâ–ˆâ–‹      | 37/100 [37:02<49:41, 47.33s/it]  
+Trials for NN:  38%|â–ˆâ–ˆâ–ˆâ–Š      | 38/100 [37:37<45:06, 43.65s/it]
+Trials for NN:  39%|â–ˆâ–ˆâ–ˆâ–‰      | 39/100 [38:00<38:09, 37.53s/it]
+Trials for NN:  40%|â–ˆâ–ˆâ–ˆâ–ˆ      | 40/100 [38:19<31:53, 31.90s/it]
+Trials for NN:  41%|â–ˆâ–ˆâ–ˆâ–ˆ      | 41/100 [39:06<35:58, 36.58s/it]
+Trials for NN:  42%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 42/100 [40:36<50:40, 52.43s/it]
+Trials for NN:  43%|â–ˆâ–ˆâ–ˆâ–ˆâ–Ž     | 43/100 [41:41<53:23, 56.20s/it]
+Trials for NN:  44%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 44/100 [43:00<58:57, 63.17s/it]
+Trials for NN:  45%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 45/100 [43:47<53:31, 58.39s/it]
+Trials for NN:  46%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 46/100 [44:40<50:58, 56.65s/it]
+Trials for NN:  47%|â–ˆâ–ˆâ–ˆâ–ˆâ–‹     | 47/100 [45:07<42:10, 47.74s/it]
+Trials for NN:  48%|â–ˆâ–ˆâ–ˆâ–ˆâ–Š     | 48/100 [46:15<46:46, 53.97s/it]
+Trials for NN:  49%|â–ˆâ–ˆâ–ˆâ–ˆâ–‰     | 49/100 [49:22<1:19:49, 93.91s/it]
+Trials for NN:  50%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 50/100 [50:02<1:04:46, 77.74s/it]
+Trials for NN:  51%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 51/100 [50:48<55:41, 68.19s/it]  
+Trials for NN:  52%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 52/100 [51:06<42:20, 52.93s/it]
+Trials for NN:  53%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž    | 53/100 [51:37<36:30, 46.60s/it]
+Trials for NN:  54%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 54/100 [52:24<35:42, 46.58s/it]
+Trials for NN:  55%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 55/100 [53:39<41:24, 55.20s/it]
+Trials for NN:  56%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 56/100 [54:01<32:59, 44.99s/it]
+Trials for NN:  57%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹    | 57/100 [54:27<28:14, 39.41s/it]
+Trials for NN:  58%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š    | 58/100 [55:20<30:22, 43.38s/it]
+Trials for NN:  59%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰    | 59/100 [55:59<28:51, 42.22s/it]
+Trials for NN:  60%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 60/100 [57:41<40:01, 60.03s/it]
+Trials for NN:  61%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 61/100 [59:00<42:48, 65.87s/it]
+Trials for NN:  62%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 62/100 [59:26<34:06, 53.87s/it]
+Trials for NN:  63%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž   | 63/100 [1:00:50<38:46, 62.88s/it]
+Trials for NN:  64%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 64/100 [1:02:15<41:48, 69.68s/it]
+Trials for NN:  65%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 65/100 [1:02:43<33:12, 56.93s/it]
+Trials for NN:  66%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 66/100 [1:03:13<27:43, 48.92s/it]
+Trials for NN:  67%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹   | 67/100 [1:04:13<28:47, 52.35s/it]
+Trials for NN:  68%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š   | 68/100 [1:05:20<30:11, 56.62s/it]
+Trials for NN:  69%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰   | 69/100 [1:06:32<31:39, 61.27s/it]
+Trials for NN:  70%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 70/100 [1:06:53<24:38, 49.28s/it]
+Trials for NN:  71%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 71/100 [1:08:57<34:35, 71.57s/it]
+Trials for NN:  72%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 72/100 [1:09:47<30:25, 65.19s/it]
+Trials for NN:  73%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž  | 73/100 [1:11:15<32:22, 71.94s/it]
+Trials for NN:  74%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 74/100 [1:12:06<28:29, 65.74s/it]
+Trials for NN:  75%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 75/100 [1:13:11<27:18, 65.54s/it]
+Trials for NN:  76%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 76/100 [1:13:41<21:56, 54.86s/it]
+Trials for NN:  77%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹  | 77/100 [1:14:41<21:34, 56.27s/it]
+Trials for NN:  78%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š  | 78/100 [1:14:57<16:14, 44.28s/it]
+Trials for NN:  79%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰  | 79/100 [1:15:47<16:07, 46.09s/it]
+Trials for NN:  80%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 80/100 [1:16:08<12:52, 38.63s/it]
+Trials for NN:  81%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 81/100 [1:17:42<17:24, 54.98s/it]
+Trials for NN:  82%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 82/100 [1:19:03<18:49, 62.78s/it]
+Trials for NN:  83%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž | 83/100 [1:19:28<14:35, 51.50s/it]
+Trials for NN:  84%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 84/100 [1:19:57<11:57, 44.82s/it]
+Trials for NN:  85%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 85/100 [1:20:39<10:58, 43.89s/it]
+Trials for NN:  86%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 86/100 [1:21:05<08:58, 38.50s/it]
+Trials for NN:  87%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹ | 87/100 [1:22:09<10:03, 46.41s/it]
+Trials for NN:  88%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š | 88/100 [1:22:56<09:17, 46.42s/it]
+Trials for NN:  89%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰ | 89/100 [1:23:18<07:10, 39.10s/it]
+Trials for NN:  90%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 90/100 [1:23:40<05:39, 33.93s/it]
+Trials for NN:  91%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 91/100 [1:25:20<08:05, 53.89s/it]
+Trials for NN:  92%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 92/100 [1:25:52<06:17, 47.19s/it]
+Trials for NN:  93%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž| 93/100 [1:27:02<06:17, 53.99s/it]
+Trials for NN:  94%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 94/100 [1:27:30<04:37, 46.31s/it]
+Trials for NN:  95%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 95/100 [1:28:33<04:16, 51.32s/it]
+Trials for NN:  96%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 96/100 [1:29:03<02:59, 44.99s/it]
+Trials for NN:  97%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹| 97/100 [1:30:21<02:44, 54.71s/it]
+Trials for NN:  98%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š| 98/100 [1:31:45<02:07, 63.63s/it]
+Trials for NN:  99%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰| 99/100 [1:32:44<01:02, 62.19s/it]
+Trials for NN: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [1:33:19<00:00, 54.13s/it]
+Trials for NN: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [1:33:19<00:00, 56.00s/it]
+
+Trials for LSTM:   0%|          | 0/100 [00:00<?, ?it/s]
+Trials for LSTM:   1%|          | 1/100 [00:53<1:28:02, 53.36s/it]
+Trials for LSTM:   2%|â–         | 2/100 [01:52<1:32:45, 56.79s/it]
+Trials for LSTM:   3%|â–Ž         | 3/100 [03:41<2:10:38, 80.81s/it]
+Trials for LSTM:   4%|â–         | 4/100 [04:50<2:01:51, 76.16s/it]
+Trials for LSTM:   5%|â–Œ         | 5/100 [06:55<2:28:21, 93.70s/it]
+Trials for LSTM:   6%|â–Œ         | 6/100 [07:45<2:03:06, 78.58s/it]
+Trials for LSTM:   7%|â–‹         | 7/100 [12:05<3:33:50, 137.96s/it]
+Trials for LSTM:   8%|â–Š         | 8/100 [13:07<2:54:37, 113.89s/it]
+Trials for LSTM:   9%|â–‰         | 9/100 [13:35<2:11:52, 86.95s/it] 
+Trials for LSTM:  10%|â–ˆ         | 10/100 [16:34<2:53:03, 115.37s/it]
+Trials for LSTM:  11%|â–ˆ         | 11/100 [17:52<2:34:05, 103.88s/it]
+Trials for LSTM:  12%|â–ˆâ–        | 12/100 [19:06<2:19:07, 94.86s/it] 
+Trials for LSTM:  13%|â–ˆâ–Ž        | 13/100 [21:57<2:50:58, 117.91s/it]
+Trials for LSTM:  14%|â–ˆâ–        | 14/100 [22:50<2:21:04, 98.43s/it] 
+Trials for LSTM:  15%|â–ˆâ–Œ        | 15/100 [24:10<2:11:17, 92.68s/it]
+Trials for LSTM:  16%|â–ˆâ–Œ        | 16/100 [25:59<2:16:59, 97.85s/it]
+Trials for LSTM:  17%|â–ˆâ–‹        | 17/100 [27:05<2:02:02, 88.23s/it]
+Trials for LSTM:  18%|â–ˆâ–Š        | 18/100 [31:46<3:19:31, 146.00s/it]
+Trials for LSTM:  19%|â–ˆâ–‰        | 19/100 [33:36<3:02:43, 135.36s/it]
+Trials for LSTM:  20%|â–ˆâ–ˆ        | 20/100 [34:59<2:39:19, 119.50s/it]
+Trials for LSTM:  21%|â–ˆâ–ˆ        | 21/100 [35:59<2:13:53, 101.70s/it]
+Trials for LSTM:  22%|â–ˆâ–ˆâ–       | 22/100 [39:24<2:52:28, 132.67s/it]
+Trials for LSTM:  23%|â–ˆâ–ˆâ–Ž       | 23/100 [42:15<3:05:06, 144.23s/it]
+Trials for LSTM:  24%|â–ˆâ–ˆâ–       | 24/100 [43:04<2:26:23, 115.57s/it]
+Trials for LSTM:  25%|â–ˆâ–ˆâ–Œ       | 25/100 [44:20<2:09:39, 103.73s/it]
+Trials for LSTM:  26%|â–ˆâ–ˆâ–Œ       | 26/100 [45:26<1:54:09, 92.56s/it] 
+Trials for LSTM:  27%|â–ˆâ–ˆâ–‹       | 27/100 [46:46<1:47:46, 88.58s/it]
+Trials for LSTM:  28%|â–ˆâ–ˆâ–Š       | 28/100 [49:31<2:13:48, 111.51s/it]
+Trials for LSTM:  29%|â–ˆâ–ˆâ–‰       | 29/100 [51:36<2:16:40, 115.50s/it]
+Trials for LSTM:  30%|â–ˆâ–ˆâ–ˆ       | 30/100 [53:09<2:07:06, 108.95s/it]
+Trials for LSTM:  31%|â–ˆâ–ˆâ–ˆ       | 31/100 [54:46<2:00:59, 105.21s/it]
+Trials for LSTM:  32%|â–ˆâ–ˆâ–ˆâ–      | 32/100 [56:50<2:05:46, 110.98s/it]
+Trials for LSTM:  33%|â–ˆâ–ˆâ–ˆâ–Ž      | 33/100 [58:24<1:58:07, 105.79s/it]
+Trials for LSTM:  34%|â–ˆâ–ˆâ–ˆâ–      | 34/100 [59:50<1:49:43, 99.75s/it] 
+Trials for LSTM:  35%|â–ˆâ–ˆâ–ˆâ–Œ      | 35/100 [1:01:23<1:46:04, 97.92s/it]
+Trials for LSTM:  36%|â–ˆâ–ˆâ–ˆâ–Œ      | 36/100 [1:03:35<1:55:23, 108.17s/it]
+Trials for LSTM:  37%|â–ˆâ–ˆâ–ˆâ–‹      | 37/100 [1:05:09<1:49:06, 103.92s/it]
+Trials for LSTM:  38%|â–ˆâ–ˆâ–ˆâ–Š      | 38/100 [1:06:49<1:45:59, 102.57s/it]
+Trials for LSTM:  39%|â–ˆâ–ˆâ–ˆâ–‰      | 39/100 [1:07:25<1:24:03, 82.69s/it] 
+Trials for LSTM:  40%|â–ˆâ–ˆâ–ˆâ–ˆ      | 40/100 [1:08:26<1:16:05, 76.09s/it]
+Trials for LSTM:  41%|â–ˆâ–ˆâ–ˆâ–ˆ      | 41/100 [1:09:54<1:18:21, 79.68s/it]
+Trials for LSTM:  42%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 42/100 [1:12:45<1:43:43, 107.30s/it]
+Trials for LSTM:  43%|â–ˆâ–ˆâ–ˆâ–ˆâ–Ž     | 43/100 [1:14:13<1:36:10, 101.23s/it]
+Trials for LSTM:  44%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 44/100 [1:17:14<1:56:55, 125.28s/it]
+Trials for LSTM:  45%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 45/100 [1:18:39<1:43:51, 113.30s/it]
+Trials for LSTM:  46%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 46/100 [1:20:16<1:37:26, 108.27s/it]
+Trials for LSTM:  47%|â–ˆâ–ˆâ–ˆâ–ˆâ–‹     | 47/100 [1:20:49<1:15:50, 85.87s/it] 
+Trials for LSTM:  48%|â–ˆâ–ˆâ–ˆâ–ˆâ–Š     | 48/100 [1:22:38<1:20:17, 92.64s/it]
+Trials for LSTM:  49%|â–ˆâ–ˆâ–ˆâ–ˆâ–‰     | 49/100 [1:25:30<1:38:53, 116.35s/it]
+Trials for LSTM:  50%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 50/100 [1:27:03<1:31:10, 109.40s/it]
+Trials for LSTM:  51%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 51/100 [1:28:55<1:30:05, 110.32s/it]
+Trials for LSTM:  52%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 52/100 [1:29:39<1:12:20, 90.42s/it] 
+Trials for LSTM:  53%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž    | 53/100 [1:31:34<1:16:37, 97.81s/it]
+Trials for LSTM:  54%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 54/100 [1:32:58<1:11:46, 93.62s/it]
+Trials for LSTM:  55%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 55/100 [1:34:11<1:05:28, 87.29s/it]
+Trials for LSTM:  56%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 56/100 [1:35:54<1:07:34, 92.16s/it]
+Trials for LSTM:  57%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹    | 57/100 [1:37:19<1:04:23, 89.84s/it]
+Trials for LSTM:  58%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š    | 58/100 [1:40:53<1:28:59, 127.12s/it]
+Trials for LSTM:  59%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰    | 59/100 [1:42:21<1:18:56, 115.53s/it]
+Trials for LSTM:  60%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 60/100 [1:44:33<1:20:18, 120.45s/it]
+Trials for LSTM:  61%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 61/100 [1:46:22<1:16:03, 117.02s/it]
+Trials for LSTM:  62%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 62/100 [1:49:06<1:23:04, 131.17s/it]
+Trials for LSTM:  63%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž   | 63/100 [1:50:02<1:06:59, 108.63s/it]
+Trials for LSTM:  64%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 64/100 [1:53:11<1:19:36, 132.69s/it]
+Trials for LSTM:  65%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 65/100 [1:56:01<1:23:53, 143.83s/it]
+Trials for LSTM:  66%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 66/100 [1:57:12<1:09:09, 122.04s/it]
+Trials for LSTM:  67%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹   | 67/100 [2:00:41<1:21:27, 148.11s/it]
+Trials for LSTM:  68%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š   | 68/100 [2:03:20<1:20:47, 151.48s/it]
+Trials for LSTM:  69%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰   | 69/100 [2:05:15<1:12:36, 140.54s/it]
+Trials for LSTM:  70%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 70/100 [2:08:49<1:21:15, 162.53s/it]
+Trials for LSTM:  71%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 71/100 [2:10:54<1:13:00, 151.06s/it]
+Trials for LSTM:  72%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 72/100 [2:14:25<1:18:54, 169.09s/it]
+Trials for LSTM:  73%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž  | 73/100 [2:17:05<1:14:54, 166.48s/it]
+Trials for LSTM:  74%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 74/100 [2:18:38<1:02:37, 144.52s/it]
+Trials for LSTM:  75%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 75/100 [2:19:49<51:00, 122.40s/it]  
+Trials for LSTM:  76%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 76/100 [2:24:25<1:07:19, 168.30s/it]
+Trials for LSTM:  77%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹  | 77/100 [2:26:16<57:55, 151.12s/it]  
+Trials for LSTM:  78%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š  | 78/100 [2:27:12<44:59, 122.72s/it]
+Trials for LSTM:  79%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰  | 79/100 [2:28:48<40:06, 114.62s/it]
+Trials for LSTM:  80%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 80/100 [2:31:33<43:16, 129.83s/it]
+Trials for LSTM:  81%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 81/100 [2:32:18<33:02, 104.33s/it]
+Trials for LSTM:  82%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 82/100 [2:33:23<27:43, 92.43s/it] 
+Trials for LSTM:  83%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž | 83/100 [2:34:55<26:08, 92.29s/it]
+Trials for LSTM:  84%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 84/100 [2:37:25<29:16, 109.79s/it]
+Trials for LSTM:  85%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 85/100 [2:40:27<32:51, 131.46s/it]
+Trials for LSTM:  86%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 86/100 [2:41:48<27:07, 116.26s/it]
+Trials for LSTM:  87%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹ | 87/100 [2:43:32<24:22, 112.46s/it]
+Trials for LSTM:  88%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š | 88/100 [2:44:41<19:55, 99.66s/it] 
+Trials for LSTM:  89%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰ | 89/100 [2:46:16<17:58, 98.07s/it]
+Trials for LSTM:  90%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 90/100 [2:50:13<23:18, 139.87s/it]
+Trials for LSTM:  91%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 91/100 [2:51:24<17:51, 119.08s/it]
+Trials for LSTM:  92%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 92/100 [2:56:03<22:17, 167.16s/it]
+Trials for LSTM:  93%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž| 93/100 [2:56:57<15:32, 133.21s/it]
+Trials for LSTM:  94%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 94/100 [2:58:13<11:35, 115.97s/it]
+Trials for LSTM:  95%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 95/100 [2:59:47<09:07, 109.48s/it]
+Trials for LSTM:  96%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 96/100 [3:01:14<06:50, 102.71s/it]
+Trials for LSTM:  97%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹| 97/100 [3:03:46<05:52, 117.42s/it]
+Trials for LSTM:  98%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š| 98/100 [3:07:22<04:54, 147.18s/it]
+Trials for LSTM:  99%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰| 99/100 [3:09:12<02:15, 135.76s/it]
+Trials for LSTM: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [3:10:38<00:00, 121.03s/it]
+Trials for LSTM: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [3:10:38<00:00, 114.39s/it]
+
+Trials for Transformer:   0%|          | 0/100 [00:00<?, ?it/s]
+Trials for Transformer:   1%|          | 1/100 [03:21<5:32:42, 201.65s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [196, 392] and step=32, but the range is not divisible by `step`. It will be replaced by [196, 388].
+  warnings.warn(
+
+Trials for Transformer:   2%|â–         | 2/100 [06:14<5:01:47, 184.77s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [122, 244] and step=32, but the range is not divisible by `step`. It will be replaced by [122, 218].
+  warnings.warn(
+
+Trials for Transformer:   3%|â–Ž         | 3/100 [08:21<4:16:03, 158.38s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [122, 244] and step=32, but the range is not divisible by `step`. It will be replaced by [122, 218].
+  warnings.warn(
+
+Trials for Transformer:   4%|â–         | 4/100 [10:30<3:55:05, 146.93s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [246, 492] and step=32, but the range is not divisible by `step`. It will be replaced by [246, 470].
+  warnings.warn(
+
+Trials for Transformer:   5%|â–Œ         | 5/100 [13:33<4:12:44, 159.62s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [172, 344] and step=32, but the range is not divisible by `step`. It will be replaced by [172, 332].
+  warnings.warn(
+
+Trials for Transformer:   6%|â–Œ         | 6/100 [16:16<4:12:03, 160.89s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [70, 140] and step=32, but the range is not divisible by `step`. It will be replaced by [70, 134].
+  warnings.warn(
+
+Trials for Transformer:   7%|â–‹         | 7/100 [19:10<4:15:51, 165.07s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [108, 216] and step=32, but the range is not divisible by `step`. It will be replaced by [108, 204].
+  warnings.warn(
+
+Trials for Transformer:   8%|â–Š         | 8/100 [21:47<4:09:26, 162.68s/it]
+Trials for Transformer:   9%|â–‰         | 9/100 [33:38<8:26:26, 333.91s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [170, 340] and step=32, but the range is not divisible by `step`. It will be replaced by [170, 330].
+  warnings.warn(
+
+Trials for Transformer:  10%|â–ˆ         | 10/100 [37:24<7:31:09, 300.77s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [118, 236] and step=32, but the range is not divisible by `step`. It will be replaced by [118, 214].
+  warnings.warn(
+
+Trials for Transformer:  11%|â–ˆ         | 11/100 [38:53<5:49:52, 235.88s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [114, 228] and step=32, but the range is not divisible by `step`. It will be replaced by [114, 210].
+  warnings.warn(
+
+Trials for Transformer:  12%|â–ˆâ–        | 12/100 [40:22<4:40:22, 191.16s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [126, 252] and step=32, but the range is not divisible by `step`. It will be replaced by [126, 222].
+  warnings.warn(
+
+Trials for Transformer:  13%|â–ˆâ–Ž        | 13/100 [44:34<5:04:06, 209.73s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [70, 140] and step=32, but the range is not divisible by `step`. It will be replaced by [70, 134].
+  warnings.warn(
+
+Trials for Transformer:  14%|â–ˆâ–        | 14/100 [48:44<5:17:58, 221.84s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [94, 188] and step=32, but the range is not divisible by `step`. It will be replaced by [94, 158].
+  warnings.warn(
+
+Trials for Transformer:  15%|â–ˆâ–Œ        | 15/100 [51:36<4:52:53, 206.75s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [70, 140] and step=32, but the range is not divisible by `step`. It will be replaced by [70, 134].
+  warnings.warn(
+
+Trials for Transformer:  16%|â–ˆâ–Œ        | 16/100 [52:54<3:55:20, 168.10s/it]
+Trials for Transformer:  17%|â–ˆâ–‹        | 17/100 [58:55<5:12:32, 225.93s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [82, 164] and step=32, but the range is not divisible by `step`. It will be replaced by [82, 146].
+  warnings.warn(
+
+Trials for Transformer:  18%|â–ˆâ–Š        | 18/100 [1:00:46<4:21:48, 191.57s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [194, 388] and step=32, but the range is not divisible by `step`. It will be replaced by [194, 386].
+  warnings.warn(
+
+Trials for Transformer:  19%|â–ˆâ–‰        | 19/100 [1:01:49<3:26:26, 152.91s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [164, 328] and step=32, but the range is not divisible by `step`. It will be replaced by [164, 324].
+  warnings.warn(
+
+Trials for Transformer:  20%|â–ˆâ–ˆ        | 20/100 [1:03:30<3:03:01, 137.27s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [106, 212] and step=32, but the range is not divisible by `step`. It will be replaced by [106, 202].
+  warnings.warn(
+
+Trials for Transformer:  21%|â–ˆâ–ˆ        | 21/100 [1:05:58<3:05:03, 140.55s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [80, 160] and step=32, but the range is not divisible by `step`. It will be replaced by [80, 144].
+  warnings.warn(
+
+Trials for Transformer:  22%|â–ˆâ–ˆâ–       | 22/100 [1:09:09<3:22:32, 155.80s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [226, 452] and step=32, but the range is not divisible by `step`. It will be replaced by [226, 450].
+  warnings.warn(
+
+Trials for Transformer:  23%|â–ˆâ–ˆâ–Ž       | 23/100 [1:11:40<3:18:07, 154.39s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [76, 152] and step=32, but the range is not divisible by `step`. It will be replaced by [76, 140].
+  warnings.warn(
+
+Trials for Transformer:  24%|â–ˆâ–ˆâ–       | 24/100 [1:15:01<3:33:08, 168.27s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [130, 260] and step=32, but the range is not divisible by `step`. It will be replaced by [130, 258].
+  warnings.warn(
+
+Trials for Transformer:  25%|â–ˆâ–ˆâ–Œ       | 25/100 [1:17:27<3:22:01, 161.62s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [252, 504] and step=32, but the range is not divisible by `step`. It will be replaced by [252, 476].
+  warnings.warn(
+
+Trials for Transformer:  26%|â–ˆâ–ˆâ–Œ       | 26/100 [1:19:18<3:00:21, 146.24s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [102, 204] and step=32, but the range is not divisible by `step`. It will be replaced by [102, 198].
+  warnings.warn(
+
+Trials for Transformer:  27%|â–ˆâ–ˆâ–‹       | 27/100 [1:21:59<3:03:28, 150.80s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [90, 180] and step=32, but the range is not divisible by `step`. It will be replaced by [90, 154].
+  warnings.warn(
+
+Trials for Transformer:  28%|â–ˆâ–ˆâ–Š       | 28/100 [1:24:44<3:05:59, 154.99s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [180, 360] and step=32, but the range is not divisible by `step`. It will be replaced by [180, 340].
+  warnings.warn(
+
+Trials for Transformer:  29%|â–ˆâ–ˆâ–‰       | 29/100 [1:26:00<2:35:30, 131.42s/it]
+Trials for Transformer:  30%|â–ˆâ–ˆâ–ˆ       | 30/100 [1:27:28<2:18:06, 118.37s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [244, 488] and step=32, but the range is not divisible by `step`. It will be replaced by [244, 468].
+  warnings.warn(
+
+Trials for Transformer:  31%|â–ˆâ–ˆâ–ˆ       | 31/100 [1:30:42<2:41:59, 140.86s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [212, 424] and step=32, but the range is not divisible by `step`. It will be replaced by [212, 404].
+  warnings.warn(
+
+Trials for Transformer:  32%|â–ˆâ–ˆâ–ˆâ–      | 32/100 [1:33:23<2:46:46, 147.16s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [236, 472] and step=32, but the range is not divisible by `step`. It will be replaced by [236, 460].
+  warnings.warn(
+
+Trials for Transformer:  33%|â–ˆâ–ˆâ–ˆâ–Ž      | 33/100 [1:39:14<3:52:21, 208.09s/it]
+Trials for Transformer:  34%|â–ˆâ–ˆâ–ˆâ–      | 34/100 [1:41:01<3:15:42, 177.92s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [72, 144] and step=32, but the range is not divisible by `step`. It will be replaced by [72, 136].
+  warnings.warn(
+
+Trials for Transformer:  35%|â–ˆâ–ˆâ–ˆâ–Œ      | 35/100 [1:44:52<3:30:04, 193.92s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [130, 260] and step=32, but the range is not divisible by `step`. It will be replaced by [130, 258].
+  warnings.warn(
+
+Trials for Transformer:  36%|â–ˆâ–ˆâ–ˆâ–Œ      | 36/100 [1:47:28<3:14:34, 182.41s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [236, 472] and step=32, but the range is not divisible by `step`. It will be replaced by [236, 460].
+  warnings.warn(
+
+Trials for Transformer:  37%|â–ˆâ–ˆâ–ˆâ–‹      | 37/100 [1:49:14<2:47:19, 159.36s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [156, 312] and step=32, but the range is not divisible by `step`. It will be replaced by [156, 284].
+  warnings.warn(
+
+Trials for Transformer:  38%|â–ˆâ–ˆâ–ˆâ–Š      | 38/100 [1:50:30<2:19:06, 134.62s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [110, 220] and step=32, but the range is not divisible by `step`. It will be replaced by [110, 206].
+  warnings.warn(
+
+Trials for Transformer:  39%|â–ˆâ–ˆâ–ˆâ–‰      | 39/100 [1:53:17<2:26:39, 144.25s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [136, 272] and step=32, but the range is not divisible by `step`. It will be replaced by [136, 264].
+  warnings.warn(
+
+Trials for Transformer:  40%|â–ˆâ–ˆâ–ˆâ–ˆ      | 40/100 [1:54:48<2:08:07, 128.12s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [66, 132] and step=32, but the range is not divisible by `step`. It will be replaced by [66, 130].
+  warnings.warn(
+
+Trials for Transformer:  41%|â–ˆâ–ˆâ–ˆâ–ˆ      | 41/100 [1:56:32<1:59:06, 121.13s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [104, 208] and step=32, but the range is not divisible by `step`. It will be replaced by [104, 200].
+  warnings.warn(
+
+Trials for Transformer:  42%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 42/100 [1:59:32<2:14:09, 138.79s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [108, 216] and step=32, but the range is not divisible by `step`. It will be replaced by [108, 204].
+  warnings.warn(
+
+Trials for Transformer:  43%|â–ˆâ–ˆâ–ˆâ–ˆâ–Ž     | 43/100 [2:02:09<2:16:57, 144.17s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [84, 168] and step=32, but the range is not divisible by `step`. It will be replaced by [84, 148].
+  warnings.warn(
+
+Trials for Transformer:  44%|â–ˆâ–ˆâ–ˆâ–ˆâ–     | 44/100 [2:04:15<2:09:30, 138.76s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [178, 356] and step=32, but the range is not divisible by `step`. It will be replaced by [178, 338].
+  warnings.warn(
+
+Trials for Transformer:  45%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 45/100 [2:07:25<2:21:15, 154.10s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [184, 368] and step=32, but the range is not divisible by `step`. It will be replaced by [184, 344].
+  warnings.warn(
+
+Trials for Transformer:  46%|â–ˆâ–ˆâ–ˆâ–ˆâ–Œ     | 46/100 [2:10:53<2:33:17, 170.33s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [106, 212] and step=32, but the range is not divisible by `step`. It will be replaced by [106, 202].
+  warnings.warn(
+
+Trials for Transformer:  47%|â–ˆâ–ˆâ–ˆâ–ˆâ–‹     | 47/100 [2:11:53<2:01:10, 137.17s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [234, 468] and step=32, but the range is not divisible by `step`. It will be replaced by [234, 458].
+  warnings.warn(
+
+Trials for Transformer:  48%|â–ˆâ–ˆâ–ˆâ–ˆâ–Š     | 48/100 [2:16:27<2:34:17, 178.02s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [114, 228] and step=32, but the range is not divisible by `step`. It will be replaced by [114, 210].
+  warnings.warn(
+
+Trials for Transformer:  49%|â–ˆâ–ˆâ–ˆâ–ˆâ–‰     | 49/100 [2:20:05<2:41:44, 190.29s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [184, 368] and step=32, but the range is not divisible by `step`. It will be replaced by [184, 344].
+  warnings.warn(
+
+Trials for Transformer:  50%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 50/100 [2:24:16<2:53:36, 208.34s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [106, 212] and step=32, but the range is not divisible by `step`. It will be replaced by [106, 202].
+  warnings.warn(
+
+Trials for Transformer:  51%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ     | 51/100 [2:25:08<2:11:54, 161.52s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [72, 144] and step=32, but the range is not divisible by `step`. It will be replaced by [72, 136].
+  warnings.warn(
+
+Trials for Transformer:  52%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 52/100 [2:26:56<1:56:22, 145.46s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [136, 272] and step=32, but the range is not divisible by `step`. It will be replaced by [136, 264].
+  warnings.warn(
+
+Trials for Transformer:  53%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž    | 53/100 [2:30:02<2:03:21, 157.49s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [72, 144] and step=32, but the range is not divisible by `step`. It will be replaced by [72, 136].
+  warnings.warn(
+
+Trials for Transformer:  54%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–    | 54/100 [2:31:48<1:48:57, 142.11s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [220, 440] and step=32, but the range is not divisible by `step`. It will be replaced by [220, 412].
+  warnings.warn(
+
+Trials for Transformer:  55%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 55/100 [2:33:37<1:39:11, 132.25s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [70, 140] and step=32, but the range is not divisible by `step`. It will be replaced by [70, 134].
+  warnings.warn(
+
+Trials for Transformer:  56%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ    | 56/100 [2:36:36<1:47:07, 146.08s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [164, 328] and step=32, but the range is not divisible by `step`. It will be replaced by [164, 324].
+  warnings.warn(
+
+Trials for Transformer:  57%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹    | 57/100 [2:40:19<2:01:24, 169.41s/it]
+Trials for Transformer:  58%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š    | 58/100 [2:50:44<3:34:13, 306.04s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [156, 312] and step=32, but the range is not divisible by `step`. It will be replaced by [156, 284].
+  warnings.warn(
+
+Trials for Transformer:  59%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰    | 59/100 [2:53:30<3:00:19, 263.88s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [220, 440] and step=32, but the range is not divisible by `step`. It will be replaced by [220, 412].
+  warnings.warn(
+
+Trials for Transformer:  60%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 60/100 [2:55:51<2:31:24, 227.10s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [212, 424] and step=32, but the range is not divisible by `step`. It will be replaced by [212, 404].
+  warnings.warn(
+
+Trials for Transformer:  61%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ    | 61/100 [2:58:14<2:11:14, 201.92s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [68, 136] and step=32, but the range is not divisible by `step`. It will be replaced by [68, 132].
+  warnings.warn(
+
+Trials for Transformer:  62%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 62/100 [3:00:26<1:54:37, 180.99s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [70, 140] and step=32, but the range is not divisible by `step`. It will be replaced by [70, 134].
+  warnings.warn(
+
+Trials for Transformer:  63%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž   | 63/100 [3:01:47<1:33:05, 150.95s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [114, 228] and step=32, but the range is not divisible by `step`. It will be replaced by [114, 210].
+  warnings.warn(
+
+Trials for Transformer:  64%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–   | 64/100 [3:03:14<1:18:56, 131.58s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [70, 140] and step=32, but the range is not divisible by `step`. It will be replaced by [70, 134].
+  warnings.warn(
+
+Trials for Transformer:  65%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 65/100 [3:07:00<1:33:21, 160.05s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [246, 492] and step=32, but the range is not divisible by `step`. It will be replaced by [246, 470].
+  warnings.warn(
+
+Trials for Transformer:  66%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ   | 66/100 [3:10:32<1:39:26, 175.49s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [246, 492] and step=32, but the range is not divisible by `step`. It will be replaced by [246, 470].
+  warnings.warn(
+
+Trials for Transformer:  67%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹   | 67/100 [3:16:05<2:02:37, 222.95s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [130, 260] and step=32, but the range is not divisible by `step`. It will be replaced by [130, 258].
+  warnings.warn(
+
+Trials for Transformer:  68%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š   | 68/100 [3:18:55<1:50:27, 207.10s/it]
+Trials for Transformer:  69%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰   | 69/100 [3:20:35<1:30:20, 174.86s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [108, 216] and step=32, but the range is not divisible by `step`. It will be replaced by [108, 204].
+  warnings.warn(
+
+Trials for Transformer:  70%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 70/100 [3:25:29<1:45:17, 210.57s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [108, 216] and step=32, but the range is not divisible by `step`. It will be replaced by [108, 204].
+  warnings.warn(
+
+Trials for Transformer:  71%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   | 71/100 [3:27:11<1:26:00, 177.93s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [106, 212] and step=32, but the range is not divisible by `step`. It will be replaced by [106, 202].
+  warnings.warn(
+
+Trials for Transformer:  72%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 72/100 [3:29:55<1:21:09, 173.92s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [212, 424] and step=32, but the range is not divisible by `step`. It will be replaced by [212, 404].
+  warnings.warn(
+
+Trials for Transformer:  73%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž  | 73/100 [3:36:38<1:49:11, 242.66s/it]
+Trials for Transformer:  74%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–  | 74/100 [3:43:40<2:08:28, 296.46s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [172, 344] and step=32, but the range is not divisible by `step`. It will be replaced by [172, 332].
+  warnings.warn(
+
+Trials for Transformer:  75%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 75/100 [3:47:35<1:55:50, 278.03s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [70, 140] and step=32, but the range is not divisible by `step`. It will be replaced by [70, 134].
+  warnings.warn(
+
+Trials for Transformer:  76%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ  | 76/100 [3:49:52<1:34:13, 235.54s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [122, 244] and step=32, but the range is not divisible by `step`. It will be replaced by [122, 218].
+  warnings.warn(
+
+Trials for Transformer:  77%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹  | 77/100 [3:53:49<1:30:25, 235.91s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [102, 204] and step=32, but the range is not divisible by `step`. It will be replaced by [102, 198].
+  warnings.warn(
+
+Trials for Transformer:  78%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š  | 78/100 [3:56:50<1:20:31, 219.61s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [82, 164] and step=32, but the range is not divisible by `step`. It will be replaced by [82, 146].
+  warnings.warn(
+
+Trials for Transformer:  79%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰  | 79/100 [3:58:36<1:04:52, 185.36s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [94, 188] and step=32, but the range is not divisible by `step`. It will be replaced by [94, 158].
+  warnings.warn(
+
+Trials for Transformer:  80%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 80/100 [4:00:09<52:37, 157.90s/it]  /home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [130, 260] and step=32, but the range is not divisible by `step`. It will be replaced by [130, 258].
+  warnings.warn(
+
+Trials for Transformer:  81%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  | 81/100 [4:01:32<42:50, 135.31s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [70, 140] and step=32, but the range is not divisible by `step`. It will be replaced by [70, 134].
+  warnings.warn(
+
+Trials for Transformer:  82%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 82/100 [4:05:40<50:43, 169.10s/it]
+Trials for Transformer:  83%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž | 83/100 [4:08:16<46:50, 165.31s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [118, 236] and step=32, but the range is not divisible by `step`. It will be replaced by [118, 214].
+  warnings.warn(
+
+Trials for Transformer:  84%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ– | 84/100 [4:09:21<36:01, 135.08s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [114, 228] and step=32, but the range is not divisible by `step`. It will be replaced by [114, 210].
+  warnings.warn(
+
+Trials for Transformer:  85%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 85/100 [4:12:43<38:47, 155.18s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [122, 244] and step=32, but the range is not divisible by `step`. It will be replaced by [122, 218].
+  warnings.warn(
+
+Trials for Transformer:  86%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ | 86/100 [4:18:30<49:38, 212.74s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [104, 208] and step=32, but the range is not divisible by `step`. It will be replaced by [104, 200].
+  warnings.warn(
+
+Trials for Transformer:  87%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹ | 87/100 [4:20:52<41:30, 191.57s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [88, 176] and step=32, but the range is not divisible by `step`. It will be replaced by [88, 152].
+  warnings.warn(
+
+Trials for Transformer:  88%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š | 88/100 [4:23:36<36:38, 183.25s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [216, 432] and step=32, but the range is not divisible by `step`. It will be replaced by [216, 408].
+  warnings.warn(
+
+Trials for Transformer:  89%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰ | 89/100 [4:25:51<30:55, 168.73s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [122, 244] and step=32, but the range is not divisible by `step`. It will be replaced by [122, 218].
+  warnings.warn(
+
+Trials for Transformer:  90%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 90/100 [4:27:34<24:51, 149.17s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [226, 452] and step=32, but the range is not divisible by `step`. It will be replaced by [226, 450].
+  warnings.warn(
+
+Trials for Transformer:  91%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ | 91/100 [4:30:57<24:47, 165.30s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [184, 368] and step=32, but the range is not divisible by `step`. It will be replaced by [184, 344].
+  warnings.warn(
+
+Trials for Transformer:  92%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 92/100 [4:35:44<26:54, 201.79s/it]
+Trials for Transformer:  93%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Ž| 93/100 [4:42:55<31:32, 270.40s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [84, 168] and step=32, but the range is not divisible by `step`. It will be replaced by [84, 148].
+  warnings.warn(
+
+Trials for Transformer:  94%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–| 94/100 [4:43:51<20:37, 206.20s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [94, 188] and step=32, but the range is not divisible by `step`. It will be replaced by [94, 158].
+  warnings.warn(
+
+Trials for Transformer:  95%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 95/100 [4:46:08<15:27, 185.54s/it]
+Trials for Transformer:  96%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Œ| 96/100 [4:47:39<10:28, 157.06s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [114, 228] and step=32, but the range is not divisible by `step`. It will be replaced by [114, 210].
+  warnings.warn(
+
+Trials for Transformer:  97%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‹| 97/100 [4:48:56<06:39, 133.05s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [66, 132] and step=32, but the range is not divisible by `step`. It will be replaced by [66, 130].
+  warnings.warn(
+
+Trials for Transformer:  98%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–Š| 98/100 [4:51:47<04:48, 144.25s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [70, 140] and step=32, but the range is not divisible by `step`. It will be replaced by [70, 134].
+  warnings.warn(
+
+Trials for Transformer:  99%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‰| 99/100 [4:54:00<02:20, 140.99s/it]/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [72, 144] and step=32, but the range is not divisible by `step`. It will be replaced by [72, 136].
+  warnings.warn(
+
+Trials for Transformer: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [4:57:48<00:00, 167.13s/it]
+Trials for Transformer: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 100/100 [4:57:48<00:00, 178.69s/it]
+/home/mukund_n.iitr/.conda/envs/mukundn/lib/python3.9/site-packages/optuna/distributions.py:699: UserWarning: The distribution is specified by [108, 216] and step=32, but the range is not divisible by `step`. It will be replaced by [108, 204].
+  warnings.warn(
