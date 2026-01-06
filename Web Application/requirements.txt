@@ -1,0 +1,10 @@
+gradio
+pandas
+numpy
+scikit-learn
+optuna
+joblib
+requests
+tqdm
+soilgrids
+deep-translator

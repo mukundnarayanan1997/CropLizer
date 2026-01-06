@@ -1272,15 +1272,6 @@ if __name__ == "__main__":
         link.href = 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌾</text></svg>';
         document.getElementsByTagName('head')[0].appendChild(link);
     }
-    // Auto-refresh chat every 12 hours (43,200,000 milliseconds)
-    setInterval(() => {
-        const buttons = Array.from(document.querySelectorAll('button'));
-        const restartBtn = buttons.find(btn => btn.innerText.includes('Restart Chat'));
-        if (restartBtn) {
-            console.log("Auto-refreshing chat...");
-            restartBtn.click();
-        }
-    }, 43200000);
     // Run on load and after delay to fight Gradio's defaults
     window.addEventListener('DOMContentLoaded', setFavicon);
     window.addEventListener('load', setFavicon);
@@ -1294,7 +1285,7 @@ if __name__ == "__main__":
         with gr.Row():
             # --- Sidebar: Language Selector ---
             with gr.Column(scale=0, min_width=120, elem_id="lang_col"):
-                # gr.Markdown("### 🗣️ Language")
+                gr.Markdown("### 🗣️ Language")
                 lang_selector = gr.Radio(
                     choices=list(LANGUAGES.keys()), 
                     value='English', 
@@ -1321,7 +1312,7 @@ if __name__ == "__main__":
                         with gr.Row():
                             chat_opts = gr.Radio(choices=['Auto'], label="Quick Options", visible=True)
                             chat_msg = gr.Textbox(show_label=False, placeholder="Type answer here...", autofocus=True)
-                            chat_clear = gr.Button("⟲")
+                            chat_clear = gr.Button("Restart Chat")
 
                         # Chat Event Logic
                         def respond(msg, hist, st, lang, opts):
